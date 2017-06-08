@@ -1,4 +1,4 @@
-# WordPress Scaffold v0.1.0
+# WordPress Scaffold v0.1.1
 
 [![Latest Stable Version](https://poser.pugx.org/jjgrainger/wp-scaffold/v/stable)](https://packagist.org/packages/jjgrainger/wp-scaffold) [![Total Downloads](https://poser.pugx.org/jjgrainger/wp-scaffold/downloads)](https://packagist.org/packages/jjgrainger/wp-scaffold) [![License](https://poser.pugx.org/jjgrainger/wp-scaffold/license)](https://packagist.org/packages/jjgrainger/wp-scaffold)
 
